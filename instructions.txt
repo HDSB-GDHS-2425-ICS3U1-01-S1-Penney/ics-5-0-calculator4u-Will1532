@@ -17,7 +17,7 @@ Choose and impliment 1-2 additional features to add to your calculator to make i
    Add error handling for invalid user input, such as letters instead of numbers, or division by zero. Display user-friendly error messages.
 
 3) **Square Root and Power Functions:**
-   Add functionality to compute the square root, or raise a number to a power (e.g., `Math.sqrt(x)` or `Math.pow(x, y)`).
+   Add functioanlity to compute the square root, or raise a number to a power (e.g., `Math.sqrt(x)` or `Math.pow(x, y)`).
 
 5) **History of Calculations:**
    Implement a feature that allows users to view the history of their previous calculations and possibly reuse the result of previous operations.
@@ -29,7 +29,7 @@ Choose and impliment 1-2 additional features to add to your calculator to make i
    Include basic unit conversions, like converting between different units of measurement (e.g., inches to centimeters or Fahrenheit to Celsius).
 
 8) **Trigonometric Functions:**
-   Extend functionality by adding trigonometric operations (e.g., `Math.sin(x)`, `Math.cos(x)`, `Math.tan(x)`) for advanced users who need it for math-related tasks.
+   Extend functioanlity by adding trigonometric operations (e.g., `Math.sin(x)`, `Math.cos(x)`, `Math.tan(x)`) for advanced users who need it for math-related tasks.
 
 9) **Command-line Arguments Support:**
     Allow users to pass arguments to the calculator via the command line, enabling non-interactive or script-based calculations.
