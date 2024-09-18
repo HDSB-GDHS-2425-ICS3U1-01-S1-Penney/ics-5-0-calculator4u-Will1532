@@ -71,10 +71,10 @@ else if (unit == "Farenheight") {
     console.log(Number(num3) - Number(32) * Number(0.5555555556))
 }
 else if (unit == "Inches") {
-    console.log(Number(num38) * Number(2.54))
+    console.log(Number(num3) / Number(2.54))
 }
 else if (unit == "Centimeters") {
-    console.log(Number(num3) / Number(2.54))
+    console.log(Number(num3) * Number(2.54))
 } 
 else {
     console.log("Error! Pick between the four options.")
